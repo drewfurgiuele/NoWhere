@@ -1,4 +1,4 @@
-# NoWhere
+# noWHERE
 A quick and dirty VSCode/SQL Operations Studio extension to test for WHERE clauses in potentially damaging statements.
 
 ## Usage
@@ -6,7 +6,7 @@ The extension works with SQL and MSSQL file types when working in your editor of
 
 ## Installation
 Maybe one day I'll publish this on the extension marketplace, but until that time, here's how you can install this extension manually:
-1. Download this repository and save it to a folder on your hard drive (i.e. noWhere)
+1. Download this repository and save it to a folder on your hard drive (i.e. noWHERE)
 2. Copy that folder to your extensions directory for the editor you want to use. On Windows 10*:
   * You can find your VSCode extensions folder in your C:\Users\<username>\.vscode\extensions folder
   * You can find your SQL Ops Studio extensions folder in your C:\Users\<username>\.sqlops\extensions folder
